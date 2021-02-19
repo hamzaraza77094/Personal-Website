@@ -1,20 +1,20 @@
 body {
   margin: 0;
-  background-image: url(images/FourK.jpg);
+  background-image: url(FourK.jpg);
   background: cover;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   overflow: hidden;
 }
 
 #showcase {
-  background-image: url(images/FourK.jpg);
+  background-image: url(FourK.jpg);
   /* background: linear-gradient(#f2709c, #ff9472); */
   height: 100vh;
   background-size: cover;
   background-position: center;
 }
 #showcase1{
-  background-image: url(images/FourK.jpg);
+  background-image: url(FourK.jpg);
   height: 150vh;
   background-size: cover;
   background-position: center;
