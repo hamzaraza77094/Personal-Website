@@ -3,7 +3,7 @@ body {
   background-image: url(FourK.jpg);
   background: cover;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
-  overflow: hidden;
+/*   overflow: hidden; */
 }
 
 #showcase {
